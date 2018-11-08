@@ -4,6 +4,11 @@
     "description" : "scan QR code to open the site on your mobile",
     "version" : "1.0.0",
     "author" : "Hadi Mir",
+    "icons" : {
+        "128" : "img.png",
+        "48" : "img.png",
+        "16" : "img.png"
+    },
     "permissions": [
         "activeTab"
       ],
