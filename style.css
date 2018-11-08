@@ -1,9 +1,10 @@
-body {
-color: cadetblue;
+body { 
 min-width: 250px;
 }
 
-h3 {
+#title {
     color: brown;
+    text-align: center;
+    font-size: 12px;
 }
 
