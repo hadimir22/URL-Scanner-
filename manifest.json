@@ -1,6 +1,6 @@
 {
     "manifest_version": 2, 
-    "name" : "URL scanner",
+    "name" : "URL to QR",
     "description" : "scan QR code to open the site on your mobile",
     "version" : "1.0.0",
     "author" : "Hadi Mir",
