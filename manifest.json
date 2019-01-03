@@ -2,10 +2,10 @@
     "manifest_version": 2, 
     "name" : "URL to QR",
     "description" : "scan QR code to open the site on your mobile",
-    "version" : "1.0.0",
+    "version" : "1.0.1",
     "author" : "Hadi Mir",
     "icons" : {
-        "128" : "icon.png",
+        "128" : "icon128.png",
         "48" : "icon.png",
         "16" : "icon.png"
     },
